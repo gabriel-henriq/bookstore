@@ -1,3 +1,4 @@
 Django==4.0.4
 Black==22.3.0
 psycopg2_binary==2.9.3
+django_crispy_forms==1.14.0
